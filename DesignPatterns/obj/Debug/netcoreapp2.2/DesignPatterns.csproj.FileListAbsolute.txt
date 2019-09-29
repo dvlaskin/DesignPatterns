@@ -1,0 +1,11 @@
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.deps.json
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.json
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.dev.json
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.dll
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.pdb
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csprojAssemblyReference.cache
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfoInputs.cache
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfo.cs
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.dll
+/Users/macos/Projects/c#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.pdb
