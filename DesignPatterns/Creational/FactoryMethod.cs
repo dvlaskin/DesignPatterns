@@ -20,6 +20,7 @@ namespace DesignPatterns.Creational
         public static void Run()
         {
             Console.WriteLine("\r\n\tFactoryMethod\r\n");
+            
             Developer dev = new PanelDeveloper("ООО КирпичСтрой");
             House house2 = dev.Create();
          

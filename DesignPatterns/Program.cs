@@ -9,7 +9,12 @@ namespace DesignPatterns
         {
             Console.WriteLine("Start");
             
+            // Creational Patterns
             FactoryMethod.Run();
+            AbstractFactory.Run();
+            Prototype.Run();
+            Builder.Run();
+            Singleton.Run();
             
             
             Console.WriteLine("\r\nFinish");
