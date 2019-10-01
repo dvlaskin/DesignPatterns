@@ -1,4 +1,5 @@
 ﻿using System;
+using DesignPatterns.Behavioral;
 using DesignPatterns.Creational;
 
 namespace DesignPatterns
@@ -15,6 +16,11 @@ namespace DesignPatterns
             Prototype.Run();
             Builder.Run();
             Singleton.Run();
+            
+            // Behavioral Patterns
+            Strategy.Run();
+            Observer.Run();
+            Command.Run();
             
             
             Console.WriteLine("\r\nFinish");
