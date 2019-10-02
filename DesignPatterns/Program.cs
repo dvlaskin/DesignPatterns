@@ -21,7 +21,7 @@ namespace DesignPatterns
             Strategy.Run();
             Observer.Run();
             Command.Run();
-            
+            TemplateMethod.Run();
             
             Console.WriteLine("\r\nFinish");
         }
