@@ -22,6 +22,10 @@ namespace DesignPatterns
             Observer.Run();
             Command.Run();
             TemplateMethod.Run();
+            Iterator.Run();
+            State.Run();
+            //ChainOfResponsibility.Run();
+            //Interpreter.Run();
             
             Console.WriteLine("\r\nFinish");
         }
