@@ -26,6 +26,9 @@ namespace DesignPatterns
             State.Run();
             //ChainOfResponsibility.Run();
             //Interpreter.Run();
+            MediatorExample.Run();
+            Memento.Run();
+            Visitor.Run();
             
             Console.WriteLine("\r\nFinish");
         }
