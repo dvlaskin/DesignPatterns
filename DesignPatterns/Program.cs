@@ -1,6 +1,7 @@
 ﻿using System;
 using DesignPatterns.Behavioral;
 using DesignPatterns.Creational;
+using DesignPatterns.Structural;
 
 namespace DesignPatterns
 {
@@ -29,6 +30,14 @@ namespace DesignPatterns
             MediatorExample.Run();
             Memento.Run();
             Visitor.Run();
+            
+            // Structural
+            Decorator.Run();
+            Adapter.Run();
+            Facade.Run();
+            Composite.Run();
+            Bridge.Run();
+            Flyweight.Run();
             
             Console.WriteLine("\r\nFinish");
         }
